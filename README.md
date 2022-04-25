@@ -1,2 +1,2 @@
 # DtStructPro
-A database for the example of the couse "Data Structure"
+A database for the example of the course "Data Structure".
