@@ -1,0 +1,4 @@
+﻿  LinkList.cpp
+D:\Visual Studio2022\program\DataStructPro\SqList\Project1\LinkList.cpp(122,15): warning C4101: “maxk”: 未引用的局部变量
+D:\Visual Studio2022\program\DataStructPro\SqList\Project1\LinkList.cpp(122,10): warning C4101: “mink”: 未引用的局部变量
+  Project1.vcxproj -> D:\Visual Studio2022\program\DataStructPro\SqList\x64\Debug\Project1.exe
